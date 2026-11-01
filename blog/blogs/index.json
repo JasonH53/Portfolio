@@ -1,9 +1,9 @@
 [
   {
-    "file": "hello-world.MD",
-    "title": "Hello World",
-    "date": "2026-10-28",
-    "summary": "A quick test of the new blog.",
-    "image": "/assets/headshot.png"
+    "file": "courses.MD",
+    "title": "Courses I've Taken",
+    "date": "2026-11-1",
+    "summary": "and how much I've enjoyed them",
+    "image": "/assets/uwaterloo-seal.png"
   }
 ]
