@@ -4,13 +4,13 @@
     "title": "Courses I've Taken",
     "date": "2026-11-01",
     "summary": "and how much I've enjoyed them",
-    "image": "/assets/uwaterloo-seal.png"
+    "image": "/assets/blog/uwaterloo-seal.png"
   },
   {
     "file": "cs_transfer.MD",
     "title": "How I transferred to CS at Waterloo",
     "date": "2024-05-04",
     "summary": "Blog previously written on Medium in 2024",
-    "image": "/assets/davis-center.webp"
+    "image": "/assets/blog/davis-center.webp"
   }
 ]
