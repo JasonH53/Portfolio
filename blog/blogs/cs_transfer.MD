@@ -1,5 +1,3 @@
-# How I transferred to CS @ University of Waterloo in 2024
-
 It’s May and a new round of computer science admission at UWaterloo just came out. Congratulations if you got in CS but if you are reading this, you are probably one of many people who got deferred to Honours Mathematics, or maybe even Geomatics.
 
 I was one of them. I only applied to the Computer Science program at University of Waterloo but was deferred to Honours Mathematics instead. The 2023 admission cycle was extremely competitive as I failed to get admitted to my desired program.
@@ -61,3 +59,5 @@ To even better your chances of transferring, you should consider co-op sequence 
 And finally, when you apply you should demonstrate your interest in Computer Science not the job prospects of CS. I wrote that I would like to pursue a MDSAI degree after graduation and provided some additional information like a link to my portfolio website.
 
 Good luck!
+
+[Original Source](https://medium.com/@jasonh53/how-i-transferred-to-cs-university-of-waterloo-in-2024-d94139c368af)

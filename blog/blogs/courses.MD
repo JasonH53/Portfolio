@@ -1,4 +1,3 @@
-# Courses
 What I have taken so far with my enjoyment in `(`brackets`)`
 
 ## 1A
